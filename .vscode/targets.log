@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Mon Aug 22 08:44:35 2022
+# Make data base, printed on Wed Aug 24 10:02:47 2022
 
 # Variables
 
@@ -30,7 +30,7 @@ CURDIR := /Users/amities/go/src/go-micro
 # makefile
 SHELL = /bin/sh
 # environment
-VSCODE_NLS_CONFIG = {"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"0eea3b1222777374459e015adf6fd29b.ja","_translationsConfigFile":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja/tcf.json","_cacheRoot":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja","_resolvedLanguagePackCoreLocation":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja/6d9b74a70ca9c7733b29f0456fd8195364076dda","_corruptedFile":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja/corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"0eea3b1222777374459e015adf6fd29b.ja","_translationsConfigFile":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja/tcf.json","_cacheRoot":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja","_resolvedLanguagePackCoreLocation":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja/e4503b30fc78200f846c62cf8091b76ff5547662","_corruptedFile":"/Users/amities/Library/Application Support/Code/clp/0eea3b1222777374459e015adf6fd29b.ja/corrupted.info","_languagePackSupport":true}
 # environment
 _ = /usr/bin/make
 # makefile
@@ -54,13 +54,15 @@ GOPATH = /Users/amities/go
 # environment
 NVM_BIN = /Users/amities/.nvm/versions/node/v15.11.0/bin
 # environment
+LaunchInstanceID = 699B5367-C932-4A59-849E-5BCA31C39445
+# environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
 PYENV_ROOT = /Users/amities/.pyenv
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.kFp4tkZu4l/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.JBlSuCU5ZU/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -82,7 +84,7 @@ HOME = /Users/amities
 # default
 MAKEFILEPATH = $(shell /usr/bin/xcode-select -print-path 2>/dev/null || echo /Developer)/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/amities/Library/Application Support/Code/CachedData/6d9b74a70ca9c7733b29f0456fd8195364076dda
+VSCODE_CODE_CACHE_PATH = /Users/amities/Library/Application Support/Code/CachedData/e4503b30fc78200f846c62cf8091b76ff5547662
 # environment
 LOGNAME = amities
 # environment
@@ -120,7 +122,7 @@ TMPDIR = /var/folders/bx/cdqm_mhj1h9dfj9g1xtnbyzc0000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/amities/Library/Application Support/Code/1.70.1-main.sock
+VSCODE_IPC_HOOK = /Users/amities/Library/Application Support/Code/1.70.2-main.sock
 # environment
 MallocNanoZone = 0
 # makefile
@@ -132,7 +134,7 @@ MFLAGS = -Rrqp
 # environment
 NVM_DIR = /Users/amities/.nvm
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.44412997.44413004
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.44616088.44616094
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -151,6 +153,8 @@ MAKEFILES :=
 <F = $(notdir $<)
 # environment
 LC_ALL = C
+# environment
+SECURITYSESSIONID = 186b2
 # automatic
 ^F = $(notdir $^)
 # default
@@ -162,9 +166,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 2518
+VSCODE_PID = 2492
 # variable set hash-table stats:
-# Load=76/1024=7%, Rehash=0, Collisions=2/97=2%
+# Load=78/1024=8%, Rehash=0, Collisions=2/99=2%
 
 # Pattern-specific Variable Values
 
@@ -172,7 +176,7 @@ VSCODE_PID = 2518
 
 # Directories
 
-# . (device 16777231, inode 44041329): 9 files, no impossibilities.
+# . (device 16777233, inode 44041329): 9 files, no impossibilities.
 
 # 9 files, no impossibilities in 1 directories.
 
@@ -246,7 +250,7 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Mon Aug 22 08:44:35 2022
+# Finished Make data base on Wed Aug 24 10:02:47 2022
 
  
 make: *** No rule to make target `all'.  Stop.
